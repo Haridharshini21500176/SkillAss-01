@@ -108,9 +108,9 @@ public class MainActivity extends AppCompatActivity {
 
 ## Output
 
-![1](https://github.com/Haridharshini21500176/SkillAss-01/assets/94168395/0bae6efa-c7cd-4f87-9775-5cd21d499ab5)
+![1](https://github.com/Haridharshini21500176/SkillAss-01/assets/94168395/425e2742-0080-4520-a8bb-2e25d26623e2)
 
-![2](https://github.com/Haridharshini21500176/SkillAss-01/assets/94168395/6b242e4b-a81f-411f-a3a9-bd8b0f49adf5)
+![2](https://github.com/Haridharshini21500176/SkillAss-01/assets/94168395/911af57b-9a86-4e3a-9327-a62b462b2e60)
 
 ## Result:
 Thus a Simple Android Creation to create an Thread synchronization using Android Studio was developed and executed successfully.
